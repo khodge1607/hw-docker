@@ -1,0 +1,5 @@
+Flask==0.10.1
+WerkZeug==0.7
+Jinja2==2.8
+itsdangerous==0.24
+MarkupSafe==0.23
